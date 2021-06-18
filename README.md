@@ -1,6 +1,6 @@
 # AgriCare
 
-# Building Block: Implementation of IIoT in Agriculture
+# Building Block: Implementation of IoT in Agriculture
 
 Vision: To be indeed sustainable, we need a very broad perspective coupled with a bit of patience. Holistically, we need to have the broadest possible perspective which is always open to improvisations and discussions with the viewpoint of "Nature First".
 
