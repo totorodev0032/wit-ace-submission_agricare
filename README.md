@@ -27,7 +27,12 @@ Some of the solutions, we’re trying to achieve:-
 [**DEMO VIDEO**](https://youtu.be/brNQQPGpxTo)
 
 # Architecture
+
+## Application Flow
 ![image info](https://github.com/totorodev0032/wit-ace-submission_agricare/blob/master/diagrams/architecture.png)
+
+## Disease Detection
+![disease detection](https://github.com/totorodev0032/wit-ace-submission_agricare/blob/master/diagrams/disease%20classification.png)
 
 # Long description
 
