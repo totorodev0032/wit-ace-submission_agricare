@@ -27,6 +27,7 @@ Some of the solutions, we’re trying to achieve:-
 [**DEMO VIDEO**](https://youtu.be/brNQQPGpxTo)
 
 # Architecture
+![image info](https://github.com/totorodev0032/wit-ace-submission_agricare/blob/master/diagrams/architecture.png)
 
 # Long description
 
