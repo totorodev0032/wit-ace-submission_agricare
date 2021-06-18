@@ -34,11 +34,9 @@ Some of the solutions, we’re trying to achieve:-
 ## Disease Detection
 ![disease detection](https://github.com/totorodev0032/wit-ace-submission_agricare/blob/master/diagrams/disease%20classification.png)
 
-# Long description
-
 # Project roadmap
 [Project Roadmap](https://github.com/totorodev0032/wit-ace-submission_agricare/blob/master/ROADMAP/PROJECT%20ROADMAP.pdf)
 
 
 
-# Live demo
+
