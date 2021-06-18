@@ -24,6 +24,7 @@ Some of the solutions, we’re trying to achieve:-
 - Crop wellness: Continuous monitoring of crops with cameras and drones, we’ll be able to figure out problems and diseases in crops.
 - Effective Farming: Our product focuses on effective water management, minimizing soil exploitation and decreasing farmers’ extra efforts. We will be helping to develop an effective way of producing crops.
 
+# Demo Link
 [**DEMO VIDEO**](https://youtu.be/brNQQPGpxTo)
 
 # Architecture
@@ -37,6 +38,10 @@ Some of the solutions, we’re trying to achieve:-
 # Project roadmap
 [Project Roadmap](https://github.com/totorodev0032/wit-ace-submission_agricare/blob/master/ROADMAP/PROJECT%20ROADMAP.pdf)
 
-
+# Getting Started
+### How to run locally:
+ - git clone https://github.com/totorodev0032/wit-ace-submission_agricare.git
+ - Do `npm i` in the root folder.
+ - Do `npm start` in the root folder to run the backend and frontend.
 
 
