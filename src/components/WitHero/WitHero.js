@@ -63,7 +63,12 @@ const WitHero = () => {
               freshwater in agriculture, detection of crop disease and enhancing
               the productivity.
             </p>
-            <VideoButton>Watch Video &rarr;</VideoButton>
+            <a
+              href="https://youtu.be/brNQQPGpxTo"
+              style={{ textDecoration: 'none', color: 'white' }}
+            >
+              <VideoButton>Watch Video &rarr;</VideoButton>
+            </a>
           </Left>
           <Right>
             <img src={HeroImage} alt="Hero Image" />

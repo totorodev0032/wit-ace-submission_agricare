@@ -171,9 +171,9 @@ const Jangl = () => {
       <DataWrapper>
         <RecommendationBoxWrapper>
           <p className="heading">Recommendation:</p>
-          <li>Lorem ipsum dolor sit amet</li>
-          <li>Lorem ipsum dolor sit amet</li>
-          <li>Lorem ipsum dolor sit amet</li>
+          <li>Need water in 15 hours.</li>
+          <li>No pesticides is needed.</li>
+          <li>Soil is healthy.s</li>
         </RecommendationBoxWrapper>
         <WeatherBoxWrapper>
           <TiWeatherPartlySunny style={{ color: 'blue', fontSize: '40px' }} />
